@@ -4,7 +4,7 @@
 
 >   Stacked Hourglass Networks for Human Pose Estimation : https://arxiv.org/abs/1603.06937  
 
->   Human Pose estimation with pytorch : https://github.com/bearpaw/pytorch-pose  
+>   Human Pose estimation with pytorch : https://github.com/bearpaw/pytorch-pose        
     
 ## Package needs  
 
